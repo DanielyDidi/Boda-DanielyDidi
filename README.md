@@ -1,4 +1,3 @@
-# Boda Daniel y Didi
 <!DOCTYPE html>
 <html lang="es">
 <head>
